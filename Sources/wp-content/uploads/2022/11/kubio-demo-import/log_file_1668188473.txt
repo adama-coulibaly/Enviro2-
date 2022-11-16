@@ -1,0 +1,482 @@
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The import files for: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/accounting-free/content.kds were successfully downloaded!
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: init
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "primary" (nav_menu)
+
+
+------
+[INFO] Imported "hero-1" (Fichier média)
+
+
+------
+[INFO] Imported "girl-young-business-businesswoman-office-standing-1456583-pxhere.com_" (Fichier média)
+
+
+------
+[INFO] Imported "bg-shape-2" (Fichier média)
+
+
+------
+[INFO] Imported "girl-young-business-businesswoman-office-negotiation-1456587-pxhere.com_" (Fichier média)
+
+
+------
+[INFO] Imported "bg-shape-1" (Fichier média)
+
+
+------
+[INFO] Imported "bg-shape-4-1" (Fichier média)
+
+
+------
+[INFO] Imported "c2a-2" (Fichier média)
+
+
+------
+[INFO] Imported "acc-11" (Fichier média)
+
+
+------
+[INFO] Imported "acc-3" (Fichier média)
+
+
+------
+[INFO] Imported "acc-1" (Fichier média)
+
+
+------
+[INFO] Imported "acc-8" (Fichier média)
+
+
+------
+[INFO] Imported "acc-14" (Fichier média)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "acc-16" (Fichier média)
+
+
+------
+[INFO] Imported "logo-accounting-inverse" (Fichier média)
+
+
+------
+[INFO] Imported "logo-accounting" (Fichier média)
+
+
+------
+[INFO] Imported "african-african-american-afro-american-beautiful-black-1453701-pxhere.com_.jpg" (Fichier média)
+
+
+------
+[INFO] Imported "kubio-featured-image" (Fichier média)
+
+
+------
+[INFO] Imported "bg-shape-1.png" (Fichier média)
+
+
+------
+[INFO] Imported "colibri-default-attachment" (Fichier média)
+
+
+------
+[INFO] Imported "kubio-featured-image" (Fichier média)
+
+
+------
+[INFO] Imported "Front Page" (Page)
+
+
+------
+[INFO] Imported "Blog" (Page)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Article)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "About" (Page)
+
+
+------
+[INFO] Imported "Contact" (Page)
+
+
+------
+[INFO] Imported "Home" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "404" (Modèle)
+
+
+------
+[INFO] Imported "Archive Product" (Modèle)
+
+
+------
+[INFO] Imported "Front Page" (Modèle)
+
+
+------
+[INFO] Imported "Full Width" (Modèle)
+
+
+------
+[INFO] Imported "Index" (Modèle)
+
+
+------
+[INFO] Imported "Page" (Modèle)
+
+
+------
+[INFO] Imported "Search" (Modèle)
+
+
+------
+[INFO] Imported "Single Product" (Modèle)
+
+
+------
+[INFO] Imported "Custom Styles" (Styles globaux)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "Contact form 1" (Formulaire de contact)
+
+
+------
+[INFO] Imported "Single Post" (Modèle)
+
+
+------
+[INFO] Imported "Footer" (Élément de modèle)
+
+
+------
+[INFO] Imported "Front Header" (Élément de modèle)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Header" (Élément de modèle)
+
+
+------
+[INFO] Imported "Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Imported "Page With Left Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Page With Right Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Page Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[INFO] Create term `elevate-wp` in `wp_theme`
+
+
+------
+[WARNING] Could not find the author for "hero-1.jpg" (post #41)
+
+
+------
+[WARNING] Could not find the author for "girl-young-business-businesswoman-office-standing-1456583-pxhere.com_.jpg" (post #42)
+
+
+------
+[WARNING] Could not find the author for "bg-shape-2.png" (post #43)
+
+
+------
+[WARNING] Could not find the author for "girl-young-business-businesswoman-office-negotiation-1456587-pxhere.com_.jpg" (post #44)
+
+
+------
+[WARNING] Could not find the author for "bg-shape-1.png" (post #45)
+
+
+------
+[WARNING] Could not find the author for "bg-shape-4-1.png" (post #46)
+
+
+------
+[WARNING] Could not find the author for "c2a-2.jpg" (post #47)
+
+
+------
+[WARNING] Could not find the author for "acc-11.jpg" (post #48)
+
+
+------
+[WARNING] Could not find the author for "acc-3.jpg" (post #49)
+
+
+------
+[WARNING] Could not find the author for "acc-1.jpg" (post #50)
+
+
+------
+[WARNING] Could not find the author for "acc-8.jpg" (post #51)
+
+
+------
+[WARNING] Could not find the author for "acc-14.jpg" (post #52)
+
+
+------
+[WARNING] Could not find the author for "acc-16.jpg" (post #53)
+
+
+------
+[WARNING] Could not find the author for "logo-accounting-inverse.png" (post #54)
+
+
+------
+[WARNING] Could not find the author for "logo-accounting.png" (post #55)
+
+
+------
+[WARNING] Could not find the author for "african-african-american-afro-american-beautiful-black-1453701-pxhere.com_.jpg" (post #56)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #57)
+
+
+------
+[WARNING] Could not find the author for "bg-shape-1.png" (post #58)
+
+
+------
+[WARNING] Could not find the author for "kubio-default-attachment.jpg" (post #59)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #60)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #61)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #62)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #63)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #64)
+
+
+------
+[WARNING] Could not find the author for "About" (post #79)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #81)
+
+
+------
+[WARNING] Could not find the author for "Home" (post #87)
+
+
+------
+[WARNING] Could not find the author for "" (post #90)
+
+
+------
+[WARNING] Could not find the author for "" (post #91)
+
+
+------
+[WARNING] Could not find the author for "404" (post #442)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #443)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #444)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #445)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #446)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #447)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #448)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #449)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #649)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #660)
+
+
+------
+[WARNING] Could not find the author for "Contact form 1" (post #661)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #450)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #451)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #453)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #454)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #455)
+
+
+------
+[WARNING] Could not find the author for "Page With Left Sidebar" (post #644)
+
+
+------
+[WARNING] Could not find the author for "Page With Right Sidebar" (post #645)
+
+
+------
+[WARNING] Could not find the author for "Page Sidebar" (post #646)
+
+
+------
+[INFO] Starting remapping of featured images
+
+
+------
+[INFO] Remapping featured image ID 654 to new ID 60 for post ID 63
+
+
+------
+[INFO] Remapping featured image ID 654 to new ID 60 for post ID 64
+
+
+------
+[INFO] Remapping featured image ID 654 to new ID 60 for post ID 660
+
